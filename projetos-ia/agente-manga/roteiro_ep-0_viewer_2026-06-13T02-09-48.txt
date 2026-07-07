@@ -1,0 +1,401 @@
+═══════════════════════════════════════════════════════
+  📖 ROTEIRO/RECAP GERADO POR IA
+  Manga: ep-0_viewer
+  Modelo: gemini-3-flash-preview
+  Data: 12/06/2026, 23:09:48
+  Blocos analisados: 10
+  Lotes processados: 4
+  Tempo de processamento: 118.2s
+═══════════════════════════════════════════════════════
+
+
+──────────────────────────────────────────────────
+  PARTE 1 DE 4
+──────────────────────────────────────────────────
+
+---
+# 📖 The Tutorial is Too Hard (O Tutorial é Muito Difícil)
+## Capítulo 1 (Parte 1 de 4)
+
+### 🎭 Personagens Identificados
+- **Desafiante (Lee Ho-jae)**: Um homem de cabelos pretos, vestindo roupas esportivas escuras (camisa de manga longa e calça). Ele usa uma máscara preta com um efeito de "glitch" ou distorção digital que esconde seu rosto. Empunha uma adaga com brilho roxo e correntes douradas mágicas.
+- **Destia, o Dragão Vermelho**: Uma criatura colossal e intimidadora, o mestre do 48º andar. Possui escamas escuras, olhos flamejantes e emana fogo.
+- **Civis e Usuários de Chat**: Pessoas ao redor do mundo acompanhando o fim da humanidade através de telas e fóruns.
+
+---
+
+### 📜 Roteiro Cena a Cena
+
+#### Cena 1 — O Fim da Esperança
+**[Cenário: Uma arena em ruínas repleta de armas cravadas no chão e o mundo exterior em pânico]**
+
+> [Texto Narrativo]: "79 ATTEMPTS." (79 Tentativas.)
+> [Texto Narrativo]: "315,850 CASUALTIES." (315.850 Baixas.)
+> [Texto Narrativo]: "THESE ARE THE RESULTS OF HUMANITY'S ATTEMPTS..." (Estes são os resultados das tentativas da humanidade...)
+> [Texto Narrativo]: "...TO CONQUER THE [TOWER OF TRIALS]." (...para conquistar a [Torre de Provações].)
+
+*[Onomatopeia: **TICK** (Som de relógio)]*
+*[Interface de Sistema]: "DESTRUCTION OF MANKIND — 0h : 58m : 33s" (Destruição da Humanidade — 0h : 58m : 33s)*
+
+*[Vemos um homem em um escritório escuro, cercado por papéis e telas, em estado de choque. A cena corta para as ruas, onde famílias e cidadãos olham para telões públicos com desespero.]*
+
+*[Onomatopeia: **TICK**]*
+*[Interface de Sistema]: "DESTRUCTION OF MANKIND — 0h : 58m : 32s"*
+
+*[Pessoas choram e verificam seus celulares. Um chat global mostra o desespero dos sobreviventes.]*
+
+> [IDKTBH]: "HONESTLY, THE DEATH TOLL IS JUST TOO HIGH." (Sinceramente, o número de mortos é alto demais.)
+> [IDKTBH]: "ALL THE MAJOR GUILDS HAVE GIVEN UP." (Todas as grandes guildas desistiram.)
+> [HOWLSMOVINGCASTLE]: "NO ONE ELSE IS GOING TO TRY." (Ninguém mais vai tentar.)
+> [DOPERHYMEORANGE]: "ONLY ONE HOUR LEFT UNTIL THE END OF THE WORLD." (Resta apenas uma hora até o fim do mundo.)
+
+---
+
+#### Cena 2 — O Último Desafiante
+**[Cenário: 48º Andar da Torre de Provações — Uma arena desolada]**
+
+*[Interface de Sistema]: "[TOWER OF TRIALS] FLOOR 48." (48º Andar da Torre de Provações)*
+
+*[Um guerreiro derrotado jaz encostado a uma pilastra. No chat, as despedidas continuam.]*
+
+> [RACCOONMAN4]: "IT WAS NICE KNOWING YOU ALL." (Foi bom conhecer todos vocês.)
+> [CLIMBER123]: "WAIT A SEC..." (Esperem um segundo...)
+
+*[Onomatopeia: **VWOOM / GLIDE** (Som de teletransporte e deslizamento)]*
+*[Um portal de luz se abre e um novo desafiante surge, aterrissando suavemente.]*
+
+*[Interface de Sistema]: "FLOOR 48. A CHALLENGER HAS APPEARED IN THE DOMAIN OF <THE RED DRAGON, DESTIA>." (48º Andar. Um desafiante apareceu no domínio do <Dragão Vermelho, Destia>.)*
+
+> [CLIMBER123]: "THERE'S STILL A CHALLENGER!" (Ainda há um desafiante!)
+
+*[O Desafiante ajusta sua máscara, que emite um som estático: **TZZT**. Ele segura uma adaga curta.]*
+
+*[O chat explode em reações. Onomatopeias de notificação: **DING, DING, DING**]*
+> [IMSERIOUSBRO]: "WOW, FOR REAL? A CHALLENGER IN THIS SITUATION?" (Uau, sério? Um desafiante nesta situação?)
+> [FLICKERINGVISION]: "WHY SO SERIOUS? I'M CONFISCATING YOUR KEYBOARD AWAY FOR..." (Por que tão sério? Vou confiscar seu teclado por...)
+
+*[O número de espectadores sobe rapidamente: 2.371 → 4.752 → 6.388 → 7.588]*
+
+---
+
+#### Cena 3 — O Diálogo com a Morte
+**[Cenário: Em frente ao colossal Dragão Vermelho]**
+
+*[Onomatopeia: **GRRRR** (Rosnado baixo)]*
+*[O Dragão Destia se revela em toda sua magnitude. Onomatopeia: **DA DUN** (Impacto visual)]*
+
+> [Destia]: "YOU HUMANS DON'T KNOW WHEN TO SURRENDER. SO MANY HAVE PERISHED, AND YET YOU'VE STILL COME?" (Vocês, humanos, não sabem quando se render. Tantos pereceram, e ainda assim vocês continuam vindo?)
+
+> [Desafiante]: "I HAD TO GET A FEW THINGS READY BEFORE I COULD MAKE GRILLED LIZARD." (Eu tive que preparar algumas coisas antes de poder fazer lagarto grelhado.)
+> [Desafiante]: "LUCKILY, I MADE IT JUST IN TIME." (Felizmente, cheguei bem a tempo.)
+
+> [Destia]: "HUMAN... DON'T YOU KNOW THAT YOUR DEATH COULD BE FAR MORE AGONIZING THAN THOSE BEFORE YOU?" (Humano... você não sabe que sua morte pode ser muito mais agonizante do que a daqueles que vieram antes de você?)
+
+*[O dragão começa a carregar chamas em sua boca. Onomatopeia: **CRACKLE** (Estalar de fogo)]*
+
+> [Destia]: "WELL, I SUPPOSE TALKING TO AN INSECT IS POINTLESS." (Bem, suponho que falar com um inseto seja inútil.)
+
+*[O Desafiante puxa correntes douradas que brilham intensamente. Onomatopeia: **SHLINK** (Som metálico). As correntes se enrolam em seu corpo e pernas. Onomatopeia: **WRAP** (Enrolar).]*
+
+> [Destia]: "WHAT A BORING ENDING." (Que final entediante.)
+
+*[O dragão ataca com uma velocidade avassaladora. Onomatopeia: **WHOOSH** (Vento forte). O Desafiante reage com um golpe explosivo. Onomatopeia: **SMASH** (Esmagar/Impacto).]*
+
+---
+
+### 🔍 Análise Narrativa
+- **Eventos-chave**: O mundo está a menos de uma hora da destruição total. Após centenas de milhares de mortes e a desistência das grandes guildas, um último desafiante misterioso aparece no 48º andar para enfrentar o Dragão Vermelho.
+- **Desenvolvimento de personagens**: O protagonista demonstra uma confiança extrema (arrogância estratégica), referindo-se ao dragão como "lagarto grelhado", contrastando com o desespero global.
+- **Pistas/Foreshadowing**: A máscara de "glitch" e as correntes mágicas sugerem que ele possui habilidades ou itens únicos que outros desafiantes não tinham. O fato de ele estar no 48º andar sozinho indica um nível de poder absurdo.
+- **Cliffhanger/Gancho**: O capítulo termina no exato momento do impacto entre o ataque do dragão e a reação do desafiante, deixando o resultado do primeiro embate no ar.
+
+### 📝 Resumo Executivo
+Com a humanidade à beira da extinção e apenas 58 minutos restantes no cronômetro da destruição, a esperança parecia perdida após o fracasso de todas as guildas na "Torre de Provações". No entanto, um desafiante solitário e enigmático surge no 48º andar. Com um humor ácido e equipamentos peculiares, ele desafia o lendário Dragão Vermelho Destia, tornando-se o centro das atenções de um mundo que já havia aceitado o fim. A batalha final pela sobrevivência da raça humana começa agora.
+
+
+──────────────────────────────────────────────────
+  PARTE 2 DE 4
+──────────────────────────────────────────────────
+
+---
+# 📖 Solo Leveling (Ragnarok/Original - Arco Final)
+## Capítulo [Parte 2 de 4]
+
+### 🎭 Personagens Identificados
+- **Sung Jinwoo (ou Monarca das Sombras):** Protagonista. Um caçador de cabelos pretos, olhos que brilham em amarelo/branco durante o combate, vestindo roupas escuras e empunhando adagas. Demonstra agilidade sobre-humana.
+- **Antares (Monarca da Destruição):** Um dragão colossal de escamas vermelhas, olhos flamejantes e chifres imponentes. Possui uma inteligência tática aguçada e um poder destrutivo imenso.
+
+### 📜 Roteiro Cena a Cena
+
+#### Cena 1 — A Quebra da Restrição
+**[Campo de batalha em ruínas / Interior de um templo ou arena destruída]**
+
+*[O dragão vermelho gigante exerce uma força descomunal, quebrando correntes ou amarras de energia que tentavam prendê-lo. Fragmentos de pedra e energia voam para todos os lados.]*
+
+> **Antares (Dragão):** "Restraining me first and then attacking me? Isn't that pattern a bit too predictable?" (Me restringir primeiro e depois me atacar? Esse padrão não é um pouco previsível demais?)
+
+*[O dragão vira o pescoço massivo com um movimento brusco, encarando o protagonista que está logo atrás dele.]*
+
+**Efeito Sonoro:** TURN (Gira)
+
+---
+
+#### Cena 2 — Percepção Aguçada
+**[Plano médio mostrando o contraste de tamanho entre o humano e o dragão]**
+
+**Efeito Sonoro:** DA-DUN (Batida de coração/Tensão)
+
+> **Sung Jinwoo:** "Y, you!" (V-você!)
+
+> **Antares (Dragão):** "I can tell what you're going to do just by looking at your hands." (Eu consigo dizer o que você vai fazer apenas olhando para as suas mãos.)
+
+*[Close-up no rosto de Jinwoo, que está visivelmente surpreso com a capacidade de leitura de movimentos do inimigo.]*
+
+> **Pensamento de Jinwoo:** "Did he see through my skill in that brief moment?!" (Ele percebeu minha habilidade naquele breve momento?!)
+
+---
+
+#### Cena 3 — O Sopro da Destruição
+**[O dragão começa a carregar uma energia incandescente em sua garganta e olhos]**
+
+**Efeito Sonoro:** BLAZE (Chama/Brilho)
+
+> **Antares (Dragão):** "Impressive, human! However!" (Impressionante, humano! No entanto!)
+
+> **Antares (Dragão):** "You've only chosen an even more painful death!" (Você apenas escolheu uma morte ainda mais dolorosa!)
+
+*[O dragão ruge, e o solo começa a tremer conforme a energia se acumula.]*
+
+**Efeito Sonoro:** RUMBLE (Estrondo)
+
+---
+
+#### Cena 4 — Devastação Total
+**[O dragão dispara um feixe massivo de fogo e energia pura de sua boca]**
+
+**Efeito Sonoro:** BLAST (Explosão de energia)
+
+*[O ataque atinge as estruturas ao redor, causando uma série de explosões em cadeia que reduzem tudo a escombros.]*
+
+**Efeitos Sonoros:** BOOM / KA-BOOM (Explosões)
+
+---
+
+#### Cena 5 — Manobra Evasiva
+**[Em meio à fumaça e ao fogo, uma silhueta é lançada pelo ar]**
+
+**Efeito Sonoro:** SWOOSH (Vento/Movimento rápido)
+
+*[Jinwoo aparece girando no ar, usando o impulso da explosão para se reposicionar. Ele segura firmemente sua adaga, com os olhos brilhando intensamente em meio ao caos das chamas.]*
+
+**Efeito Sonoro:** TWIRL (Giro)
+
+*[Ele executa um movimento acrobático em alta velocidade, avançando novamente em direção ao perigo.]*
+
+**Efeito Sonoro:** ZOOM (Velocidade extrema)
+
+---
+
+### 🔍 Análise Narrativa
+- **Eventos-chave**: O Monarca da Destruição demonstra que não é apenas força bruta, mas também um mestre tático que consegue ler os padrões de ataque de Jinwoo. Ele se liberta da contenção e lança um ataque de área devastador.
+- **Desenvolvimento de personagens**: Vemos um momento raro de hesitação ou surpresa em Jinwoo, ao perceber que sua velocidade e técnica foram previstas. O dragão, por sua vez, exala arrogância e autoridade absoluta.
+- **Pistas/Foreshadowing**: A menção de "olhar para as mãos" sugere que o combate atingiu um nível de maestria onde movimentos mínimos entregam a intenção do lutador.
+- **Cliffhanger/Gancho**: Jinwoo sobrevive ao sopro direto e está usando o ar para contra-atacar, preparando um movimento de alta velocidade enquanto cai em direção ao dragão.
+
+### 📝 Resumo Executivo
+O Monarca da Destruição quebra facilmente as restrições impostas por Jinwoo e revela que previu o plano do caçador. Após zombar da previsibilidade do humano, o dragão dispara um sopro de fogo colossal que devasta o cenário. No entanto, Jinwoo demonstra sua resiliência e agilidade absurda, manobrando através das explosões no ar para lançar um contra-ataque imediato, mantendo a luta em um ritmo frenético.
+
+
+──────────────────────────────────────────────────
+  PARTE 3 DE 4
+──────────────────────────────────────────────────
+
+Aqui está a análise detalhada da Parte 3 do capítulo, mantendo a estrutura e o formato solicitados.
+
+---
+
+# 📖 [Título não visível nas páginas]
+## Capítulo [Número não visível] — Parte 3 de 4
+
+### 🎭 Personagens Identificados
+- **Protagonista**: Jovem de cabelos pretos, vestindo um traje de combate escuro e justo. Demonstra extrema calma e controle, possuindo habilidades que envolvem manipulação de dados e registros do mundo.
+- **Dragão Vermelho Destia**: Uma criatura colossal e majestosa de escamas vermelhas, capaz de usar ataques de sopro de fogo que cobrem áreas imensas. Está ferido e furioso.
+
+### 📜 Roteiro Cena a Cena
+
+#### Cena 1 — O Golpe Decisivo
+**[Interior de uma Dungeon / Caverna em chamas]**
+
+*[O protagonista é visto mergulhando verticalmente em alta velocidade, segurando uma adaga imbuída de uma energia roxa e negra pulsante. Ele desfere um corte devastador contra o pescoço do Dragão Vermelho.]*
+
+> **Efeito Sonoro (SFX)**: *SLASH* (Corte)
+> **Dragão Vermelho Destia**: "KRAAAH!" (Grito de agonia)
+
+*[O dragão é jogado contra o chão pelo impacto. O protagonista aterrissa suavemente à frente da cabeça da fera, que está caída, mas ainda consciente.]*
+
+> **Dragão Vermelho Destia**: "YOU INSOLENT...!" (Seu insolente...!)
+> **Dragão Vermelho Destia**: "I WON'T LET YOU LEAVE THIS PLACE ALIVE!" (Não vou deixar você sair daqui vivo!)
+
+#### Cena 2 — O Sopro do Dragão
+**[Interior da Dungeon]**
+
+*[O dragão se levanta parcialmente, acumulando uma quantidade massiva de fogo em sua garganta. Ele libera um rugido ensurdecedor enquanto as chamas começam a envolver todo o cenário.]*
+
+> **Efeito Sonoro (SFX)**: *ROOOAR* (Rugido)
+> **Sistema (Painel)**: "<RED DRAGON DESTIA> USES BREATH." (<Dragão Vermelho Destia> usa Sopro.)
+> **Narrador (Pensamento)**: "THIS ENTIRE DUNGEON IS UNDER THE AREA OF THE DRAGON'S BREATH," (Esta dungeon inteira está sob a área do sopro do dragão,)
+> **Narrador (Pensamento)**: "BUT THERE'S NO NEED FOR ME TO DODGE IT." (Mas não há necessidade de eu me esquivar.)
+
+#### Cena 3 — A Biblioteca Infinita
+**[Plano Etéreo / Interface de Sistema]**
+
+*[O protagonista levanta a mão direita calmamente. Partículas de energia azul e cubos digitais começam a flutuar ao seu redor, transformando o cenário em uma grade de dados.]*
+
+> **Efeito Sonoro (SFX)**: *RAISE* (Levantar) / *VWOOM* (Som de energia) / *DING* (Notificação)
+> **Sistema (Painel)**: "READING 'MEMORY OF THE WORLD'." (Lendo 'Memória do Mundo'.)
+
+*[O fundo muda para uma vasta estrutura de dados que se assemelha a prateleiras infinitas de luz.]*
+
+> **Sistema (Painel)**: "AN INFINITE LIBRARY FILLED WITH RECORDS OF SKILLS IS FORMING." (Uma biblioteca infinita repleta de registros de habilidades está se formando.)
+
+#### Cena 4 — Convocação de Habilidades
+**[Interior da Dungeon / Interface de Dados]**
+
+*[O protagonista começa a manifestar duas energias distintas em suas mãos e arma.]*
+
+> **Protagonista**: "I CALL UPON 'HELLFIRE'..." (Eu convoco 'Fogo do Inferno'...)
+> **Efeito Sonoro (SFX)**: *BLAZE* (Chamas)
+
+*[Uma chama intensa e dourada surge em sua mão esquerda. Ele então olha para sua adaga, que começa a emanar uma aura negra e líquida.]*
+
+> **Protagonista**: "...AND 'BLACK TEARS'." (...e 'Lágrimas Negras'.)
+> **Efeito Sonoro (SFX)**: *SHING* (Brilho metálico) / *FLICKER* (Oscilação)
+
+### 🔍 Análise Narrativa
+- **Eventos-chave**: O protagonista ataca o Dragão Vermelho com sucesso; o dragão retalia com um ataque de área total (Sopro); o protagonista ativa uma habilidade de nível transcendental chamada "Memória do Mundo" para acessar a "Biblioteca Infinita".
+- **Desenvolvimento de personagens**: O protagonista demonstra uma confiança absoluta, quase divina. Ele não teme o ataque mais forte do dragão e revela a capacidade de "escolher" habilidades de um registro universal, indicando que ele opera em um sistema de poder acima dos padrões normais da dungeon.
+- **Pistas/Foreshadowing**: A menção à "Memória do Mundo" sugere que o protagonista pode ter acesso a qualquer técnica que já existiu na história, tornando-o virtualmente invencível se tiver tempo para "ler" os registros.
+- **Cliffhanger/Gancho**: O protagonista acaba de preparar um combo de duas habilidades poderosas ("Hellfire" e "Black Tears") para finalizar o dragão enquanto o sopro de fogo o atinge.
+
+### 📝 Resumo Executivo
+Após desferir um golpe crítico no Dragão Vermelho Destia, o protagonista enfrenta a fúria total da criatura, que utiliza seu ataque de sopro para incinerar toda a dungeon. Em vez de recuar, o jovem ativa a "Memória do Mundo", acessando uma biblioteca infinita de habilidades. Ele seleciona "Hellfire" e "Black Tears", preparando-se para um contra-ataque final avassalador que promete encerrar o combate de forma épica.
+
+---
+
+
+──────────────────────────────────────────────────
+  PARTE 4 DE 4
+──────────────────────────────────────────────────
+
+---
+# 📖 I'm the Max Level Newbie
+## Prólogo: O Início de Tudo (Parte 4)
+
+### 🎭 Personagens Identificados
+- **Kang Jinhyeok**: O protagonista. Um jovem de cabelos pretos, olhar determinado e aura intensamente poderosa. Ele demonstra um conhecimento profundo sobre as mecânicas do "jogo" que se tornou realidade.
+- **Etherion (Dragão Ancião)**: Um dragão colossal com aparência esquelética e blindada, olhos brilhantes e uma presença intimidadora. Ele é um dos "Dragões Anciões".
+
+### 📜 Roteiro Cena a Cena
+
+#### Cena 1 — A Provocação do Dragão
+**[Campo de batalha em chamas e ruínas]**
+
+> **Etherion**: "FOOLISH HUMAN, WERE YOU SO CONFIDENT BECAUSE OF THOSE PATHETIC SKILLS?!" (Humano tolo, você estava tão confiante por causa dessas habilidades patéticas?!)
+> **Etherion**: "YOU WON'T BE ABLE TO KILL ME WITH THOSE SKILLS!" (Você não será capaz de me matar com essas habilidades!)
+
+*[O dragão ruge, sua silhueta massiva dominando o cenário enquanto chamas e fumaça sobem ao redor de Jinhyeok, que segura sua adaga firmemente.]*
+
+---
+
+#### Cena 2 — A Fusão de Habilidades
+**[Foco em Kang Jinhyeok e sua arma]**
+
+> **Kang Jinhyeok**: "OF COURSE, IT'D BE IMPOSSIBLE TO KILL YOU WITH THESE SKILLS..." (Claro, seria impossível matar você com essas habilidades...)
+> **Kang Jinhyeok**: "SO, I'LL MAKE A NEW ONE." (Então, eu vou criar uma nova.)
+
+*[Jinhyeok levanta sua adaga. Uma aura roxa começa a emanar de sua mão.]*
+*Onomatopeia: **RAISE** (Levantar)*
+
+> **Kang Jinhyeok**: "'HELLFIRE'..." (Fogo do Inferno...)
+> **Kang Jinhyeok**: "...AND 'BLACK TEARS'." (...e Lágrimas Negras.)
+
+*[As duas energias começam a se misturar na lâmina da adaga.]*
+*Onomatopeia: **FW OOSH** (Som de chamas/energia surgindo)*
+
+> **Kang Jinhyeok**: "I'LL FUSE..." (Eu vou fundir...)
+> **Kang Jinhyeok**: "...THESE TWO SKILLS TOGETHER!" (...essas duas habilidades juntas!)
+
+*Onomatopeia: **FLASH** (Clarão)*
+
+---
+
+#### Cena 3 — O Surgimento da Habilidade SSS
+**[Interface de Sistema e Efeitos Visuais]**
+
+**[Janela de Sistema]**: "FUSING 'HELLFIRE[S]' AND 'BLACK TEARS[S]'." (Fundindo 'Fogo do Inferno[S]' e 'Lágrimas Negras[S]'.)
+
+> **Kang Jinhyeok**: "I'LL CREATE A NEW AND POWERFUL SKILL..." (Vou criar uma nova e poderosa habilidade...)
+> **Kang Jinhyeok**: "...THAT CAN SLAY EVEN A DRAGON!" (...que pode abater até mesmo um dragão!)
+
+*Onomatopeia: **WHOOSH** / **SWIRL** (Redemoinho de energia)*
+
+**[Janela de Sistema]**: "FUSION WAS SUCCESSFUL!" (A fusão foi bem-sucedida!)
+
+*[Uma explosão massiva de energia roxa e rosa consome o cenário.]*
+*Onomatopeia: **RUMBLE** (Estrondo)*
+
+**[Janela de Sistema]**: "YOU HAVE ACQUIRED 'THE BREATH OF ETHERION, THE DRAGON OF NOTHINGNESS(SSS)'!" (Você adquiriu 'O Sopro de Etherion, o Dragão do Nada(SSS)'!)
+
+---
+
+#### Cena 4 — O Choque de Etherion
+**[Close no rosto do Dragão e sua forma completa]**
+
+> **Etherion**: "IS... IS THAT..." (Isso... isso é...)
+> **Etherion**: "...THE STRONGEST BREATH USED BY ETHERION, ONE OF THE ANCIENT DRAGONS?!" (...o sopro mais forte usado por Etherion, um dos Dragões Anciões?!)
+
+**[Janela de Identificação]**: ANCIENT DRAGON ETHERION (Dragão Ancião Etherion)
+
+> **Etherion**: "HOW COULD A MERE HUMAN HAVE THAT SKILL...?!" (Como um mero humano poderia ter essa habilidade...?!)
+> **Etherion**: "WH, WHO EXACTLY ARE YOU, HUMAN?!" (Qu-quem exatamente é você, humano?!)
+
+---
+
+#### Cena 5 — A Revelação Final
+**[Kang Jinhyeok caminha calmamente em meio aos raios de energia]**
+
+*Onomatopeia: **CRACKLE** (Estalido de eletricidade/energia)*
+
+> **Kang Jinhyeok**: "KANG JINHYEOK."
+
+*[Jinhyeok olha diretamente para o dragão com um sorriso confiante e olhos brilhando em vermelho.]*
+
+> **Caixa de Texto**: "I'M A BATTERED AND WORN OUT..." (Eu sou um acabado e exausto...)
+> **Kang Jinhyeok**: "ALSO, THIS ISN'T MY FIRST TIME KILLING YOU." (Além disso, esta não é a primeira vez que eu mato você.)
+> **Caixa de Texto**: "...HARDCORE GAMER." (...jogador hardcore.)
+
+---
+
+#### Cena 6 — Encerramento
+**[Tela de Título]**
+
+**I'M THE MAX LEVEL NEWBIE**
+(Eu sou o Novato de Nível Máximo)
+
+**PROLOGUE: THE BEGINNING OF EVERYTHING**
+(Prólogo: O Início de Tudo)
+
+**TO BE CONTINUED...**
+(Continua...)
+
+---
+
+### 🔍 Análise Narrativa
+- **Eventos-chave**: Jinhyeok utiliza a mecânica de fusão de habilidades para criar uma técnica de rank SSS ("O Sopro de Etherion") usando o próprio poder do dragão contra ele. A fusão de "Hellfire" e "Black Tears" resulta em um poder devastador que choca a criatura.
+- **Desenvolvimento de personagens**: Jinhyeok revela sua identidade e sua natureza como um "Hardcore Gamer". A frase "não é a primeira vez que te mato" sugere que ele completou o jogo anteriormente ou possui memórias de uma linha do tempo/ciclo anterior.
+- **Pistas/Foreshadowing**: O título "Max Level Newbie" (Novato de Nível Máximo) e a menção de ser um jogador veterano indicam que o mundo agora opera sob as regras de um jogo que Jinhyeok dominou completamente no passado.
+- **Cliffhanger/Gancho**: O capítulo termina com Jinhyeok prestes a desferir o golpe final em um Dragão Ancião, estabelecendo-o imediatamente como um protagonista extremamente "overpowered" (OP) e conhecedor do sistema.
+
+### 📝 Resumo Executivo
+Nesta conclusão do prólogo, Kang Jinhyeok ignora as provocações do Dragão Ancião Etherion e demonstra sua maestria técnica ao fundir duas habilidades de rank S para criar uma habilidade de rank SSS: o próprio sopro do dragão. Diante do choque da criatura, Jinhyeok revela que já o derrotou antes em sua vida como um jogador hardcore, consolidando sua posição como um "novato" que já possui o conhecimento de um nível máximo. O capítulo encerra com a promessa de uma jornada onde o conhecimento prévio do protagonista será sua maior arma.
+

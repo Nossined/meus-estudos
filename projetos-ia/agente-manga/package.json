@@ -1,0 +1,43 @@
+{
+  "name": "agente-manga",
+  "version": "2.0.0",
+  "description": "🐉 Agente Visual para captura de páginas de mangás — suporta Webtoons, MangaDex, MangaLivre, Asura Scans e muito mais",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "cli": "node agente.js",
+    "capturar": "node agente.js",
+    "juntar": "node juntar.js",
+    "analisar": "node analisar.js",
+    "roteirizar": "node roteirizar.js",
+    "narrar": "node narrar.js",
+    "renderizar": "node renderizar.js",
+    "pipeline": "node agente.js && node juntar.js && node analisar.js && node roteirizar.js && node narrar.js && node renderizar.js",
+    "setup": "npx playwright install chromium"
+  },
+  "keywords": [
+    "manga",
+    "scraper",
+    "playwright",
+    "webtoons",
+    "captura"
+  ],
+  "author": "tails",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "@google/genai": "^2.8.0",
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^17.4.2",
+    "ffmpeg-static": "^5.3.0",
+    "ffprobe-static": "^3.1.0",
+    "fluent-ffmpeg": "^2.1.3",
+    "playwright": "^1.60.0",
+    "puppeteer": "^25.1.0",
+    "sharp": "^0.35.1",
+    "wav": "^1.0.2"
+  },
+  "devDependencies": {
+    "electron": "^42.4.0"
+  }
+}

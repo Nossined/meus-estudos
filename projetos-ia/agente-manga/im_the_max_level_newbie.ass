@@ -1,0 +1,173 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,85,&H0000FFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,5,3,2,20,20,100,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.50,0:00:03.65,Default,,0,0,0,,{\fad(50,50)}Obra: I'm the Max Level Newbie Tom:
+Dialogue: 0,0:00:03.65,0:00:06.81,Default,,0,0,0,,{\fad(50,50)}Contação de história / Dinâmico / Hype
+Dialogue: 0,0:00:06.81,0:00:09.07,Default,,0,0,0,,{\fad(50,50)}Controlado Duração: ~11.0 minutos ──────────────────────────────────────────────────
+Dialogue: 0,0:00:09.07,0:00:12.23,Default,,0,0,0,,{\fad(50,50)}Cara... vocês não têm noção do que
+Dialogue: 0,0:00:12.23,0:00:15.39,Default,,0,0,0,,{\fad(50,50)}eu acabei de ver. Sério, segura o
+Dialogue: 0,0:00:15.39,0:00:17.65,Default,,0,0,0,,{\fad(50,50)}queixo porque ele vai cair.
+Dialogue: 0,0:00:17.65,0:00:20.69,Default,,0,0,0,,{\fad(50,50)}O mundo está literalmente acabando. A humanidade
+Dialogue: 0,0:00:20.69,0:00:23.73,Default,,0,0,0,,{\fad(50,50)}já jogou a toalha, aceitou a derrota.
+Dialogue: 0,0:00:23.73,0:00:26.77,Default,,0,0,0,,{\fad(50,50)}E do nada... me surge o maior
+Dialogue: 0,0:00:26.77,0:00:29.81,Default,,0,0,0,,{\fad(50,50)}psicopata — ou melhor, o maior gênio
+Dialogue: 0,0:00:29.81,0:00:32.85,Default,,0,0,0,,{\fad(50,50)}— que eu já vi na história
+Dialogue: 0,0:00:32.85,0:00:35.89,Default,,0,0,0,,{\fad(50,50)}dos manhwas. Estamos falando de "I'm the
+Dialogue: 0,0:00:35.89,0:00:38.93,Default,,0,0,0,,{\fad(50,50)}Max Level Newbie", e o que acontece
+Dialogue: 0,0:00:38.93,0:00:41.10,Default,,0,0,0,,{\fad(50,50)}nesse prólogo é simplesmente bizarro.
+Dialogue: 0,0:00:41.10,0:00:44.17,Default,,0,0,0,,{\fad(50,50)}Imaginem a cena. O cronômetro da aniquilação
+Dialogue: 0,0:00:44.17,0:00:47.25,Default,,0,0,0,,{\fad(50,50)}total está piscando na tela de todo
+Dialogue: 0,0:00:47.25,0:00:50.33,Default,,0,0,0,,{\fad(50,50)}mundo no planeta. Faltam menos de sessenta
+Dialogue: 0,0:00:50.33,0:00:53.40,Default,,0,0,0,,{\fad(50,50)}minutos. É isso. O fim da linha.
+Dialogue: 0,0:00:53.40,0:00:56.48,Default,,0,0,0,,{\fad(50,50)}O game over definitivo pra raça humana.
+Dialogue: 0,0:00:56.48,0:00:59.50,Default,,0,0,0,,{\fad(50,50)}As ruas estão um caos. Pessoas chorando...
+Dialogue: 0,0:00:59.50,0:01:02.53,Default,,0,0,0,,{\fad(50,50)}e os fóruns de internet parecem um
+Dialogue: 0,0:01:02.53,0:01:05.55,Default,,0,0,0,,{\fad(50,50)}velório coletivo. O sistema esfrega os números
+Dialogue: 0,0:01:05.55,0:01:08.58,Default,,0,0,0,,{\fad(50,50)}na cara de todo mundo: 79 tentativas.
+Dialogue: 0,0:01:08.58,0:01:11.60,Default,,0,0,0,,{\fad(50,50)}315 mil mortes. As maiores guildas do
+Dialogue: 0,0:01:11.60,0:01:14.63,Default,,0,0,0,,{\fad(50,50)}mundo, os caras que eram pra ser
+Dialogue: 0,0:01:14.63,0:01:17.65,Default,,0,0,0,,{\fad(50,50)}os grandes heróis, simplesmente desistiram. O chat
+Dialogue: 0,0:01:17.65,0:01:20.68,Default,,0,0,0,,{\fad(50,50)}global é pura depressão. É aquele clima
+Dialogue: 0,0:01:20.68,0:01:23.70,Default,,0,0,0,,{\fad(50,50)}que te deixa arrepiado, aquela sensação sufocante
+Dialogue: 0,0:01:23.70,0:01:26.73,Default,,0,0,0,,{\fad(50,50)}de que não tem mais volta, sabe?
+Dialogue: 0,0:01:26.73,0:01:29.89,Default,,0,0,0,,{\fad(50,50)}Mas aí... DO NADA! Um portal de
+Dialogue: 0,0:01:29.89,0:01:33.05,Default,,0,0,0,,{\fad(50,50)}luz explode no meio do quadragésimo oitavo
+Dialogue: 0,0:01:33.05,0:01:35.31,Default,,0,0,0,,{\fad(50,50)}andar da Torre de Provações!
+Dialogue: 0,0:01:35.31,0:01:38.45,Default,,0,0,0,,{\fad(50,50)}O chat para. O mundo para. Quem
+Dialogue: 0,0:01:38.45,0:01:41.59,Default,,0,0,0,,{\fad(50,50)}é o suicida que decidiu entrar na
+Dialogue: 0,0:01:41.59,0:01:44.73,Default,,0,0,0,,{\fad(50,50)}torre faltando 58 minutos pro mundo acabar?
+Dialogue: 0,0:01:44.73,0:01:47.77,Default,,0,0,0,,{\fad(50,50)}E aí ele aparece: Kang Jinhyeok. O
+Dialogue: 0,0:01:47.77,0:01:50.80,Default,,0,0,0,,{\fad(50,50)}cara cai com uma elegância que chega
+Dialogue: 0,0:01:50.80,0:01:53.84,Default,,0,0,0,,{\fad(50,50)}a ser um deboche pro momento. Ele
+Dialogue: 0,0:01:53.84,0:01:56.87,Default,,0,0,0,,{\fad(50,50)}tá usando uma máscara preta com efeito
+Dialogue: 0,0:01:56.87,0:01:59.91,Default,,0,0,0,,{\fad(50,50)}de glitch, vestido todo de preto, segurando
+Dialogue: 0,0:01:59.91,0:02:02.95,Default,,0,0,0,,{\fad(50,50)}uma adaga que pulsa uma energia roxa
+Dialogue: 0,0:02:02.95,0:02:05.98,Default,,0,0,0,,{\fad(50,50)}sinistra. E pra completar, correntes douradas mágicas
+Dialogue: 0,0:02:05.98,0:02:09.02,Default,,0,0,0,,{\fad(50,50)}enroladas no braço. O visual desse cara
+Dialogue: 0,0:02:09.02,0:02:09.88,Default,,0,0,0,,{\fad(50,50)}é insano.
+Dialogue: 0,0:02:09.88,0:02:12.91,Default,,0,0,0,,{\fad(50,50)}O número de espectadores na live do
+Dialogue: 0,0:02:12.91,0:02:15.93,Default,,0,0,0,,{\fad(50,50)}sistema sobe igual um foguete! Duas mil,
+Dialogue: 0,0:02:15.93,0:02:18.96,Default,,0,0,0,,{\fad(50,50)}quatro mil, sete mil pessoas! Todo mundo
+Dialogue: 0,0:02:18.96,0:02:21.98,Default,,0,0,0,,{\fad(50,50)}se perguntando quem é esse cara e
+Dialogue: 0,0:02:21.98,0:02:25.01,Default,,0,0,0,,{\fad(50,50)}por que ele tá sorrindo. E na
+Dialogue: 0,0:02:25.01,0:02:28.03,Default,,0,0,0,,{\fad(50,50)}frente dele... não é qualquer bicho. É
+Dialogue: 0,0:02:28.03,0:02:31.06,Default,,0,0,0,,{\fad(50,50)}o mestre do 48º andar. O colossal
+Dialogue: 0,0:02:31.06,0:02:34.08,Default,,0,0,0,,{\fad(50,50)}e aterrorizante Dragão Vermelho, Destia! Uma montanha
+Dialogue: 0,0:02:34.08,0:02:37.11,Default,,0,0,0,,{\fad(50,50)}de escamas escuras e olhos de fogo.
+Dialogue: 0,0:02:37.11,0:02:40.13,Default,,0,0,0,,{\fad(50,50)}O chão treme só com o rosnado
+Dialogue: 0,0:02:40.13,0:02:40.56,Default,,0,0,0,,{\fad(50,50)}dele.
+Dialogue: 0,0:02:40.56,0:02:43.65,Default,,0,0,0,,{\fad(50,50)}O dragão olha pra ele com aquele
+Dialogue: 0,0:02:43.65,0:02:46.75,Default,,0,0,0,,{\fad(50,50)}desprezo de quem vai esmagar uma formiga
+Dialogue: 0,0:02:46.75,0:02:49.84,Default,,0,0,0,,{\fad(50,50)}e diz: "Vocês, humanos, não sabem quando
+Dialogue: 0,0:02:49.84,0:02:52.93,Default,,0,0,0,,{\fad(50,50)}se render. Tantos morreram... e você ainda
+Dialogue: 0,0:02:52.93,0:02:53.81,Default,,0,0,0,,{\fad(50,50)}veio aqui?".
+Dialogue: 0,0:02:53.81,0:02:56.87,Default,,0,0,0,,{\fad(50,50)}E vocês não vão acreditar no que
+Dialogue: 0,0:02:56.87,0:02:59.93,Default,,0,0,0,,{\fad(50,50)}o Jinhyeok responde. Ele simplesmente ajusta a
+Dialogue: 0,0:02:59.93,0:03:02.99,Default,,0,0,0,,{\fad(50,50)}máscara, olha pro dragão e fala com
+Dialogue: 0,0:03:02.99,0:03:06.05,Default,,0,0,0,,{\fad(50,50)}a maior calma do mundo: "Eu tive
+Dialogue: 0,0:03:06.05,0:03:09.11,Default,,0,0,0,,{\fad(50,50)}que preparar umas coisinhas antes de fazer
+Dialogue: 0,0:03:09.11,0:03:12.17,Default,,0,0,0,,{\fad(50,50)}lagarto grelhado. Sorte que cheguei a tempo".
+Dialogue: 0,0:03:12.17,0:03:15.33,Default,,0,0,0,,{\fad(50,50)}Mano! Ele chamou o boss mais temido
+Dialogue: 0,0:03:15.33,0:03:18.48,Default,,0,0,0,,{\fad(50,50)}da torre de lagarto grelhado! O cara
+Dialogue: 0,0:03:18.48,0:03:20.74,Default,,0,0,0,,{\fad(50,50)}tem zero amor à vida!
+Dialogue: 0,0:03:20.74,0:03:23.78,Default,,0,0,0,,{\fad(50,50)}O Destia fica possuído de ódio. As
+Dialogue: 0,0:03:23.78,0:03:26.82,Default,,0,0,0,,{\fad(50,50)}chamas estalam na garganta dele, o ar
+Dialogue: 0,0:03:26.82,0:03:29.86,Default,,0,0,0,,{\fad(50,50)}em volta começa a derreter. O dragão
+Dialogue: 0,0:03:29.86,0:03:32.90,Default,,0,0,0,,{\fad(50,50)}ataca com uma velocidade que não deveria
+Dialogue: 0,0:03:32.90,0:03:35.94,Default,,0,0,0,,{\fad(50,50)}existir pra algo daquele tamanho! Um "WHOOSH"
+Dialogue: 0,0:03:35.94,0:03:38.98,Default,,0,0,0,,{\fad(50,50)}que quase rasga a tela! Mas o
+Dialogue: 0,0:03:38.98,0:03:42.01,Default,,0,0,0,,{\fad(50,50)}Jinhyeok? O cara se move como se
+Dialogue: 0,0:03:42.01,0:03:44.62,Default,,0,0,0,,{\fad(50,50)}estivesse dançando. Ele lê cada movimento.
+Dialogue: 0,0:03:44.62,0:03:47.68,Default,,0,0,0,,{\fad(50,50)}O Destia tenta prever o humano, diz
+Dialogue: 0,0:03:47.68,0:03:50.73,Default,,0,0,0,,{\fad(50,50)}que consegue ver o que ele vai
+Dialogue: 0,0:03:50.73,0:03:53.79,Default,,0,0,0,,{\fad(50,50)}fazer só de olhar pras mãos dele.
+Dialogue: 0,0:03:53.79,0:03:56.85,Default,,0,0,0,,{\fad(50,50)}Por um segundo, a gente até fica
+Dialogue: 0,0:03:56.85,0:03:59.90,Default,,0,0,0,,{\fad(50,50)}tenso. O dragão carrega o Sopro de
+Dialogue: 0,0:03:59.90,0:04:02.96,Default,,0,0,0,,{\fad(50,50)}Fogo, uma energia que reduz tudo a
+Dialogue: 0,0:04:02.96,0:04:03.40,Default,,0,0,0,,{\fad(50,50)}cinzas.
+Dialogue: 0,0:04:03.40,0:04:06.72,Default,,0,0,0,,{\fad(50,50)}BOOM! As explosões são gigantescas! O cenário
+Dialogue: 0,0:04:06.72,0:04:08.15,Default,,0,0,0,,{\fad(50,50)}inteiro é obliterado.
+Dialogue: 0,0:04:08.15,0:04:11.41,Default,,0,0,0,,{\fad(50,50)}O fogo consome tudo, e a gente
+Dialogue: 0,0:04:11.41,0:04:13.75,Default,,0,0,0,,{\fad(50,50)}pensa: "Já era. Virou churrasco".
+Dialogue: 0,0:04:13.75,0:04:16.83,Default,,0,0,0,,{\fad(50,50)}Mas aí, no meio da fumaça... a
+Dialogue: 0,0:04:16.83,0:04:19.92,Default,,0,0,0,,{\fad(50,50)}gente vê um vulto. Jinhyeok tá no
+Dialogue: 0,0:04:19.92,0:04:23.00,Default,,0,0,0,,{\fad(50,50)}ar, girando, usando o impulso da própria
+Dialogue: 0,0:04:23.00,0:04:26.09,Default,,0,0,0,,{\fad(50,50)}explosão pra se reposicionar! Ele não tá
+Dialogue: 0,0:04:26.09,0:04:27.85,Default,,0,0,0,,{\fad(50,50)}fugindo. Ele tá avançando!
+Dialogue: 0,0:04:27.85,0:04:30.89,Default,,0,0,0,,{\fad(50,50)}E é aqui que o jogo vira.
+Dialogue: 0,0:04:30.89,0:04:33.93,Default,,0,0,0,,{\fad(50,50)}Ele mergulha como um meteoro negro e
+Dialogue: 0,0:04:33.93,0:04:36.97,Default,,0,0,0,,{\fad(50,50)}desfere um corte tão brutal no pescoço
+Dialogue: 0,0:04:36.97,0:04:40.00,Default,,0,0,0,,{\fad(50,50)}do dragão que o som rasga nossos
+Dialogue: 0,0:04:40.00,0:04:43.04,Default,,0,0,0,,{\fad(50,50)}ouvidos. O Destia grita de agonia. O
+Dialogue: 0,0:04:43.04,0:04:46.08,Default,,0,0,0,,{\fad(50,50)}dragão cai, o chão racha... mas a
+Dialogue: 0,0:04:46.08,0:04:49.12,Default,,0,0,0,,{\fad(50,50)}fera tem um último truque. Se ela
+Dialogue: 0,0:04:49.12,0:04:51.73,Default,,0,0,0,,{\fad(50,50)}vai morrer, vai levar tudo junto.
+Dialogue: 0,0:04:51.73,0:04:54.84,Default,,0,0,0,,{\fad(50,50)}O dragão usa o Sopro Total! A
+Dialogue: 0,0:04:54.84,0:04:57.95,Default,,0,0,0,,{\fad(50,50)}área inteira vai ser incinerada! Não tem
+Dialogue: 0,0:04:57.95,0:05:01.06,Default,,0,0,0,,{\fad(50,50)}pra onde correr! O sistema avisa: "Sopro
+Dialogue: 0,0:05:01.06,0:05:03.28,Default,,0,0,0,,{\fad(50,50)}do Dragão Vermelho em execução".
+Dialogue: 0,0:05:03.28,0:05:06.34,Default,,0,0,0,,{\fad(50,50)}E o Jinhyeok? Ele simplesmente para. Levanta
+Dialogue: 0,0:05:06.34,0:05:09.41,Default,,0,0,0,,{\fad(50,50)}a mão direita com uma calma bizarra.
+Dialogue: 0,0:05:09.41,0:05:12.48,Default,,0,0,0,,{\fad(50,50)}Cubos digitais começam a flutuar ao redor
+Dialogue: 0,0:05:12.48,0:05:15.55,Default,,0,0,0,,{\fad(50,50)}dele, e o cenário vira uma grade
+Dialogue: 0,0:05:15.55,0:05:18.61,Default,,0,0,0,,{\fad(50,50)}de dados azul neon. É a habilidade:
+Dialogue: 0,0:05:18.61,0:05:19.93,Default,,0,0,0,,{\fad(50,50)}Memória do Mundo.
+Dialogue: 0,0:05:19.93,0:05:22.98,Default,,0,0,0,,{\fad(50,50)}Galera, o que acontece agora é nível
+Dialogue: 0,0:05:22.98,0:05:26.03,Default,,0,0,0,,{\fad(50,50)}transcendental. Ele acessa a Biblioteca Infinita. Um
+Dialogue: 0,0:05:26.03,0:05:29.08,Default,,0,0,0,,{\fad(50,50)}lugar fora do tempo, cheio de prateleiras
+Dialogue: 0,0:05:29.08,0:05:32.13,Default,,0,0,0,,{\fad(50,50)}de luz com todos os registros de
+Dialogue: 0,0:05:32.13,0:05:35.19,Default,,0,0,0,,{\fad(50,50)}habilidades que já existiram. Enquanto o fogo
+Dialogue: 0,0:05:35.19,0:05:38.24,Default,,0,0,0,,{\fad(50,50)}vem pra cima dele, ele escolhe como
+Dialogue: 0,0:05:38.24,0:05:39.98,Default,,0,0,0,,{\fad(50,50)}vai finalizar a luta.
+Dialogue: 0,0:05:39.98,0:05:43.07,Default,,0,0,0,,{\fad(50,50)}Ele olha pra uma mão e diz:
+Dialogue: 0,0:05:43.07,0:05:46.15,Default,,0,0,0,,{\fad(50,50)}"Eu convoco o Fogo do Inferno". Uma
+Dialogue: 0,0:05:46.15,0:05:49.24,Default,,0,0,0,,{\fad(50,50)}chama divina surge. Olha pra adaga e
+Dialogue: 0,0:05:49.24,0:05:52.32,Default,,0,0,0,,{\fad(50,50)}diz: "E as Lágrimas Negras". Uma aura
+Dialogue: 0,0:05:52.32,0:05:54.08,Default,,0,0,0,,{\fad(50,50)}sombria escorre pela lâmina.
+Dialogue: 0,0:05:54.08,0:05:57.12,Default,,0,0,0,,{\fad(50,50)}Fazer uma fusão de habilidades assim no
+Dialogue: 0,0:05:57.12,0:06:00.17,Default,,0,0,0,,{\fad(50,50)}meio do clímax é impossível! O sistema
+Dialogue: 0,0:06:00.17,0:06:03.21,Default,,0,0,0,,{\fad(50,50)}apita loucamente! O brilho é cegante, um
+Dialogue: 0,0:06:03.21,0:06:06.25,Default,,0,0,0,,{\fad(50,50)}redemoinho roxo e rosa que faz a
+Dialogue: 0,0:06:06.25,0:06:09.29,Default,,0,0,0,,{\fad(50,50)}torre tremer. E aí a notificação brilha
+Dialogue: 0,0:06:09.29,0:06:12.33,Default,,0,0,0,,{\fad(50,50)}na tela: "Fusão bem-sucedida. Você adquiriu a
+Dialogue: 0,0:06:12.33,0:06:15.37,Default,,0,0,0,,{\fad(50,50)}habilidade Rank SSS: O Sopro de Etherion,
+Dialogue: 0,0:06:15.37,0:06:17.11,Default,,0,0,0,,{\fad(50,50)}o Dragão do Nada".
+Dialogue: 0,0:06:17.11,0:06:20.24,Default,,0,0,0,,{\fad(50,50)}O próprio Destia fica em choque! O
+Dialogue: 0,0:06:20.24,0:06:23.37,Default,,0,0,0,,{\fad(50,50)}dragão gagueja, ele treme: "Como um humano
+Dialogue: 0,0:06:23.37,0:06:26.49,Default,,0,0,0,,{\fad(50,50)}tem a habilidade dos Dragões Anciões?! Quem
+Dialogue: 0,0:06:26.49,0:06:27.39,Default,,0,0,0,,{\fad(50,50)}é você?!".
+Dialogue: 0,0:06:27.39,0:06:30.45,Default,,0,0,0,,{\fad(50,50)}O Jinhyeok caminha tranquilamente entre os raios
+Dialogue: 0,0:06:30.45,0:06:33.51,Default,,0,0,0,,{\fad(50,50)}de energia, olha fundo nos olhos da
+Dialogue: 0,0:06:33.51,0:06:36.58,Default,,0,0,0,,{\fad(50,50)}criatura e diz: "Meu nome é Kang
+Dialogue: 0,0:06:36.58,0:06:39.64,Default,,0,0,0,,{\fad(50,50)}Jinhyeok. Eu sou apenas um jogador hardcore
+Dialogue: 0,0:06:39.64,0:06:42.70,Default,,0,0,0,,{\fad(50,50)}exausto... e essa não é a primeira
+Dialogue: 0,0:06:42.70,0:06:44.89,Default,,0,0,0,,{\fad(50,50)}vez que eu te mato".
+Dialogue: 0,0:06:44.89,0:06:47.93,Default,,0,0,0,,{\fad(50,50)}Meu Deus! Ele já tinha zerado o
+Dialogue: 0,0:06:47.93,0:06:50.97,Default,,0,0,0,,{\fad(50,50)}jogo! O cara é o Novato de
+Dialogue: 0,0:06:50.97,0:06:54.01,Default,,0,0,0,,{\fad(50,50)}Nível Máximo de verdade! Ele não tá
+Dialogue: 0,0:06:54.01,0:06:57.05,Default,,0,0,0,,{\fad(50,50)}ali pra sobreviver, tá ali pra dominar.
+Dialogue: 0,0:06:57.05,0:07:00.10,Default,,0,0,0,,{\fad(50,50)}Saber que ele é um veterano jogando
+Dialogue: 0,0:07:00.10,0:07:03.14,Default,,0,0,0,,{\fad(50,50)}a vida real como se fosse o
+Dialogue: 0,0:07:03.14,0:07:06.18,Default,,0,0,0,,{\fad(50,50)}game que ele já platinou, explode a
+Dialogue: 0,0:07:06.18,0:07:07.92,Default,,0,0,0,,{\fad(50,50)}cabeça de qualquer um.
+Dialogue: 0,0:07:07.92,0:07:10.98,Default,,0,0,0,,{\fad(50,50)}O prólogo termina com ele pronto pro
+Dialogue: 0,0:07:10.98,0:07:14.05,Default,,0,0,0,,{\fad(50,50)}golpe final. A dinâmica dele com o
+Dialogue: 0,0:07:14.05,0:07:17.12,Default,,0,0,0,,{\fad(50,50)}sistema, a quebra de todos os clichês...
+Dialogue: 0,0:07:17.12,0:07:20.19,Default,,0,0,0,,{\fad(50,50)}é uma experiência imersiva demais. Se ele
+Dialogue: 0,0:07:20.19,0:07:23.25,Default,,0,0,0,,{\fad(50,50)}já matou esse dragão antes, o que
+Dialogue: 0,0:07:23.25,0:07:24.57,Default,,0,0,0,,{\fad(50,50)}mais ele sabe?
+Dialogue: 0,0:07:24.57,0:07:27.69,Default,,0,0,0,,{\fad(50,50)}O cara vai quebrar o sistema inteiro.
+Dialogue: 0,0:07:27.69,0:07:30.80,Default,,0,0,0,,{\fad(50,50)}Então já sabe, né? Se você curtiu
+Dialogue: 0,0:07:30.80,0:07:33.92,Default,,0,0,0,,{\fad(50,50)}essa narração insana, esmaga o like! Se
+Dialogue: 0,0:07:33.92,0:07:37.04,Default,,0,0,0,,{\fad(50,50)}inscreve no canal pra gente acompanhar cada
+Dialogue: 0,0:07:37.04,0:07:40.16,Default,,0,0,0,,{\fad(50,50)}passo desse monstro. Comenta aí: você também
+Dialogue: 0,0:07:40.16,0:07:43.28,Default,,0,0,0,,{\fad(50,50)}chamaria um dragão de lagarto grelhado? Ativa
+Dialogue: 0,0:07:43.28,0:07:46.40,Default,,0,0,0,,{\fad(50,50)}o sininho e até a próxima loucura!

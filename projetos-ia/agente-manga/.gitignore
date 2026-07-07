@@ -1,0 +1,30 @@
+# ════════════════════════════════════════════
+# 🔒 PROTEÇÃO DE CHAVES E DADOS SENSÍVEIS
+# ════════════════════════════════════════════
+
+# Variáveis de ambiente (CHAVE API!)
+.env
+.env.*
+!.env.example
+
+# Dependências
+node_modules/
+
+# Downloads de manga (muito pesado pro git)
+downloads/
+
+# Logs e debug
+*.log
+_ERRO_debug.png
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+*.mp3
+*.wav
+*.m4a
+*.mp4
+projetos-ia/agente-manga/assets/bgm/*
+projetos-ia/agente-manga/assets/sfx/*
+!**/.*keep

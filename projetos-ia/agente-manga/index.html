@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Agente Manga Studio</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  
+  <div class="app-container">
+    <!-- Sidebar -->
+    <nav class="sidebar">
+      <div class="logo">
+        <h2>🐉 AMS</h2>
+        <p>Agente Manga Studio</p>
+      </div>
+      
+      <ul class="nav-links">
+        <li class="active" data-target="panel-capturar">1. Capturar</li>
+        <li data-target="panel-juntar">2. Costurar Blocos</li>
+        <li data-target="panel-analisar">3. Analisar (IA)</li>
+        <li data-target="panel-roteirizar">4. Roteirizar (TTS)</li>
+        <li data-target="panel-narrar">5. Narrar (Áudio)</li>
+        <li data-target="panel-renderizar">6. Renderizar Vídeo</li>
+        <li data-target="panel-leitor">📖 Leitor de Textos</li>
+        <li data-target="panel-config">⚙️ Configurações</li>
+      </ul>
+      
+      <div class="status-indicator">
+        <span id="api-status-dot" class="dot missing"></span>
+        <span id="api-status-text">Gemini: ?</span>
+      </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="content">
+      
+      <!-- Panel 1: Capturar -->
+      <section id="panel-capturar" class="panel active">
+        <div class="panel-header">
+          <h1>Capturar Mangá</h1>
+          <p>Forneça o link de um capítulo e o agente baixará as páginas em alta qualidade.</p>
+        </div>
+        <div class="card form-group">
+          <label for="url-input">Link do Capítulo:</label>
+          <input type="url" id="url-input" placeholder="https://webtoons.com/..." />
+          <button class="btn primary" id="btn-run-capturar">Iniciar Captura</button>
+        </div>
+      </section>
+
+      <!-- Panel 2: Juntar -->
+      <section id="panel-juntar" class="panel">
+        <div class="panel-header">
+          <h1>Costurar Blocos</h1>
+          <p>Junta as imagens em blocos verticais super altos (~12k pixels) otimizados para IA.</p>
+        </div>
+        <div class="card form-group">
+          <label>Pasta do Capítulo Capturado:</label>
+          <div class="input-row">
+            <input type="text" id="juntar-folder-path" readonly placeholder="Nenhuma pasta selecionada..." />
+            <button class="btn secondary" id="btn-select-juntar">Selecionar</button>
+          </div>
+          <button class="btn primary" id="btn-run-juntar">Costurar Imagens</button>
+        </div>
+      </section>
+
+      <!-- Panel 3: Analisar -->
+      <section id="panel-analisar" class="panel">
+        <div class="panel-header">
+          <h1>Análise com IA (Gemini)</h1>
+          <p>Transforma os blocos visuais em um roteiro enciclopédico com todas as falas e ações.</p>
+        </div>
+        <div class="card form-group">
+          <label>Pasta dos Blocos Costurados (Termina com _corrigido):</label>
+          <div class="input-row">
+            <input type="text" id="analisar-folder-path" readonly placeholder="Nenhuma pasta selecionada..." />
+            <button class="btn secondary" id="btn-select-analisar">Selecionar</button>
+          </div>
+          <button class="btn primary" id="btn-run-analisar">Iniciar Análise</button>
+        </div>
+      </section>
+
+      <!-- Panel 4: Roteirizar -->
+      <section id="panel-roteirizar" class="panel">
+        <div class="panel-header">
+          <h1>Roteirizador TTS</h1>
+          <p>Converte a análise fria em um roteiro de YouTube pronto para narração fluída.</p>
+        </div>
+        <div class="card form-group">
+          <label>Arquivo Recap Base (.txt):</label>
+          <div class="input-row">
+            <select id="roteirizar-file-select">
+              <option value="">Carregando...</option>
+            </select>
+            <button class="btn secondary" id="btn-refresh-recap">↻ Atualizar</button>
+          </div>
+          
+          <label style="margin-top: 15px;">Nome Real da Obra:</label>
+          <input type="text" id="roteirizar-nome-obra" placeholder="Para consertar alucinações de nome da IA..." />
+          
+          <label style="margin-top: 15px;">Tom de Narração:</label>
+          <select id="roteirizar-tom-select">
+            <option value="0">Aleatório (Sorteio)</option>
+          </select>
+          
+          <button class="btn primary" style="margin-top: 20px;" id="btn-run-roteirizar">Criar Roteiro Postável</button>
+        </div>
+      </section>
+
+      <!-- Panel 5: Narrar (ElevenLabs TTS) -->
+      <section id="panel-narrar" class="panel">
+        <div class="panel-header">
+          <h1>🎙️ Gerar Áudio Narrado</h1>
+          <p>Transforma o roteiro postável em áudio de alta qualidade usando Gemini Native Audio TTS.</p>
+        </div>
+        <div class="card form-group">
+          <label>Roteiro Postável (.txt):</label>
+          <div class="input-row">
+            <select id="narrar-file-select">
+              <option value="">Selecione um roteiro postável...</option>
+            </select>
+            <button class="btn secondary" id="btn-refresh-narrar">↻</button>
+            <button class="btn secondary" id="btn-browse-narrar">📁</button>
+          </div>
+
+          <label style="margin-top: 15px;">Voz do Narrador:</label>
+          <select id="narrar-voice-select">
+            <option value="padrao">Carregando...</option>
+          </select>
+
+          <button class="btn primary" style="margin-top: 20px;" id="btn-run-narrar">🎙️ Gerar Áudio</button>
+          <p class="help-text" style="margin-top: 8px;">O header [METADADOS] será removido automaticamente. A narração interpretará as tags [excitedly], [bored], etc.</p>
+        </div>
+      </section>
+
+      <!-- Panel 6: Renderizar Vídeo -->
+      <section id="panel-renderizar" class="panel">
+        <div class="panel-header">
+          <h1>🎬 Renderizador de Vídeo</h1>
+          <p>Motor Automático: Sincroniza áudio, gera legendas hardcoded e processa o Efeito Esteira (Vertical Panning).</p>
+        </div>
+        <div class="card form-group">
+          <label>Áudio Narrado (.wav):</label>
+          <div class="input-row">
+            <select id="renderizar-file-select">
+              <option value="">Carregando...</option>
+            </select>
+            <button class="btn secondary" id="btn-refresh-renderizar">↻ Atualizar</button>
+          </div>
+
+          <label style="margin-top: 15px;">Formato de Tela:</label>
+          <select id="renderizar-format-select">
+            <option value="normal">Normal / YouTube (16:9 - 1920x1080)</option>
+            <option value="shorts">Shorts / TikTok (9:16 - 1080x1920)</option>
+          </select>
+
+          <button class="btn primary" style="margin-top: 20px;" id="btn-run-renderizar">🎬 Renderizar Vídeo Final</button>
+
+          <!-- Progress Bar -->
+          <div id="render-progress-container" style="display: none; margin-top: 20px;">
+            <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px; color: var(--text-secondary);">
+              <span id="render-status-text">Iniciando...</span>
+              <span id="render-percent-text">0%</span>
+            </div>
+            <div style="width: 100%; height: 12px; background: rgba(255,255,255,0.1); border-radius: 6px; overflow: hidden;">
+              <div id="render-progress-fill" style="width: 0%; height: 100%; background: var(--accent); transition: width 0.3s ease;"></div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Panel 7: Leitor -->
+      <section id="panel-leitor" class="panel">
+        <div class="panel-header">
+          <h1>Leitor de Textos</h1>
+          <p>Visualize os roteiros gerados diretamente no app.</p>
+        </div>
+        <div class="card form-group">
+          <div class="input-row">
+            <select id="leitor-file-select"></select>
+            <button class="btn secondary" id="btn-refresh-leitor">↻ Atualizar</button>
+            <button class="btn secondary" id="btn-copy-leitor">📋 Copiar Texto</button>
+          </div>
+          <div class="reader-controls" style="margin-top: 10px;">
+             <button class="btn small" id="btn-font-minus">A-</button>
+             <button class="btn small" id="btn-font-plus">A+</button>
+          </div>
+          <div class="reader-view" id="reader-content" style="margin-top: 15px;">
+            Selecione um arquivo acima para ler.
+          </div>
+        </div>
+      </section>
+
+      <!-- Panel 6: Configurações -->
+      <section id="panel-config" class="panel">
+        <div class="panel-header">
+          <h1>Configurações</h1>
+          <p>Defina as integrações necessárias para as IAs funcionarem.</p>
+        </div>
+        <div class="card form-group">
+          <label for="apikey-input">Gemini API Key:</label>
+          <input type="password" id="apikey-input" placeholder="AIzaSy..." />
+          <p class="help-text">Esta chave servirá para TUDO: Análise de Imagem, Escrita do Roteiro e Narração TTS.</p>
+          <button class="btn primary" id="btn-save-key">Salvar Chave Gemini</button>
+        </div>
+      </section>
+
+      <!-- Shared Console Terminal -->
+      <div class="terminal-container" id="terminal-container">
+        <div class="terminal-header">
+          <span>Logs de Execução</span>
+          <button class="btn-clear" id="btn-clear-logs">Limpar</button>
+        </div>
+        <div class="terminal-body" id="terminal-output"></div>
+      </div>
+
+    </main>
+  </div>
+
+  <script src="renderer.js"></script>
+</body>
+</html>

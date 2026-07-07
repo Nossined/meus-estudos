@@ -1,0 +1,12 @@
+const cp = require('child_process');
+try {
+  cp.execFileSync('node_modules/ffmpeg-static/ffmpeg.exe', [
+    '-f', 'lavfi', 
+    '-i', 'testsrc=s=1920x1080', 
+    '-vf', "ass='roteiro_im_the_max_level_newbie_postavel_2026-06-13T19-12-51_audio_2026-06-13T19-43-29.ass'", 
+    '-t', '1', 
+    '-y', 'test_ass.mp4'
+  ], {stdio: 'inherit'});
+} catch(e) {
+  console.error(e.message);
+}
