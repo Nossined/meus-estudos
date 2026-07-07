@@ -1,0 +1,26 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #151b29
+}
+
+.button {
+    background: none;
+    color: #ffa260;
+    border: 2px solid #ffa260;
+    padding: 15px 30px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: color 0.3s, border-color 0.3s, box-shadow 0.3s, transform 0.3s;
+    /*evite usar all pra transitions, pode bugar tudo! */
+}
+
+.button:hover {
+    border-color: #f1ff5c;
+    color: white;
+    box-shadow: 0 0.5em 0.5em -0.4em #f1ff5c;
+    transform: translateY(-0.25em);
+}
