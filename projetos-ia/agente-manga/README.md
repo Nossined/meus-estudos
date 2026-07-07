@@ -1,4 +1,4 @@
-# 🐉 Agente Manga — Capturador Visual
+# 🐉 Agente Manga — Capturador Visual (FEITO COM IA!!)
 
 Captura automaticamente todas as páginas de um capítulo de manga ao fornecer apenas o link.
 
